@@ -19,7 +19,7 @@
 <code><img height="20" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></code>
 <br/>
 
-| <a href="https://github.com/gugag2003/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugag2003&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/gugag2003/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugag2003&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- |
 
 <a href="https://www.linkedin.com/in/gustavo-gon%C3%A7alves-3583aa27b/" target="_blank">
